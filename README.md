@@ -1,6 +1,4 @@
-# Save the README content to a file for download
 
-readme_worldwise = """
 # 🌍 WorldWise
 
 A clean, responsive web app to track and document all the places you've visited worldwide. Built during Jonas Schmedtmann’s Ultimate React Course, this project includes location-based notes and interactive maps, built with modern React tools.
