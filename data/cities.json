@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "623a",
+      "cityName": "Guarda",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-05-29T06:30:25.665Z",
+      "notes": "",
+      "position": {
+        "lat": "40.63152463500839",
+        "lng": "-7.162044306391774"
+      }
+    },
+    {
+      "id": "1d84",
+      "cityName": "Mossaka",
+      "country": "Congo (the)",
+      "emoji": "🇨🇬",
+      "date": "2025-05-29T06:46:41.565Z",
+      "notes": "sfasfASFasf",
+      "position": {
+        "lat": "-0.7467780714818463",
+        "lng": "16.521081781607887"
+      }
+    },
+    {
+      "id": "df1c",
+      "cityName": "Al Dhafra",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2025-05-29T07:14:59.826Z",
+      "notes": "",
+      "position": {
+        "lat": "23.56528736224094",
+        "lng": "54.1833134075612"
+      }
+    },
+    {
+      "id": "57b7",
+      "cityName": "Zaorejas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-29T07:19:06.293Z",
+      "notes": "",
+      "position": {
+        "lat": "40.83108528605735",
+        "lng": "-2.152729136505303"
+      }
+    },
+    {
+      "id": "bb9f",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-05-29T11:03:03.704Z",
+      "notes": "Sanyam mundu",
+      "position": {
+        "lat": "19.048663080421843",
+        "lng": "72.8991755265093"
+      }
+    },
+    {
+      "id": "a886",
+      "cityName": "Nuneaton",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-06-07T13:19:13.586Z",
+      "notes": "",
+      "position": {
+        "lat": "52.46939684276205",
+        "lng": "-1.4941406250000002"
+      }
+    }
+  ]
+}
