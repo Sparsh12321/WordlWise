@@ -6,7 +6,7 @@ A clean, responsive web app to track and document all the places you've visited 
 ---
 
 ## 🎯 Live Demo
-
+https://wordl-wise.vercel.app
 ![image](https://github.com/user-attachments/assets/6dc90a7f-eaa3-445c-b857-dc755dd007bc)
 ![image](https://github.com/user-attachments/assets/f6e370ec-667e-4aaf-862b-302e9f42a20a)
 
